@@ -1,0 +1,10 @@
+# build output
+.build/
+*.dSYM/
+*.o
+*.out
+a.out
+*.class
+
+# macOS
+.DS_Store
