@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/adityasingh/Developer/lld/Learning/Lecture 05/C++ Code/SRP/SRP_violated'
+relocations:     []
+...
